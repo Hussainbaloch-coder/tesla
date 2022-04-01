@@ -390,6 +390,9 @@ ul {
 	background-position: center;
 	height:100vh!important;
 }
+.fp-tableCell{
+  height: auto!important;
+}
 
 .section.one {
 	background-image: url(media/model3.jpg);
